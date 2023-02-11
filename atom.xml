@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://newzone.top/atom.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://newzone.top/LearnDataNote/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-  <id>https://newzone.top/</id>
+  <id>https://newzone.top/LearnDataNote/</id>
   <title>LearnData-开源笔记</title>
   <subtitle>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
   <author>
     <name>清顺</name>
     <uri>https://newzone.top</uri>
   </author>
-  <logo>https://newzone.top/logo.svg</logo>
+  <logo>https://newzone.top/LearnDataNote/logo.svg</logo>
   <rights>Copyright by 清顺</rights>
-  <updated>2023-02-11T12:04:44.258Z</updated>
+  <updated>2023-02-11T13:54:19.450Z</updated>
   <generator>vuepress-plugin-feed2</generator>
-  <link rel="self" href="https://newzone.top/atom.xml"/>
-  <link rel="alternate" href="https://newzone.top/"/>
+  <link rel="self" href="https://newzone.top/LearnDataNote/atom.xml"/>
+  <link rel="alternate" href="https://newzone.top/LearnDataNote/"/>
   <category term="工具"/>
   <category term="自动化"/>
   <category term="系统"/>
@@ -24,8 +24,8 @@
   </contributor>
   <entry>
     <title type="text">电脑上实现微信双开，无需网页版或第三方软件</title>
-    <id>https://newzone.top/posts/2017-04-18-wechat_multi_open.html</id>
-    <link href="https://newzone.top/posts/2017-04-18-wechat_multi_open.html"/>
+    <id>https://newzone.top/LearnDataNote/posts/2017-04-18-wechat_multi_open.html</id>
+    <link href="https://newzone.top/LearnDataNote/posts/2017-04-18-wechat_multi_open.html"/>
     <updated>2023-02-11T12:00:13.000Z</updated>
     <summary type="html"><![CDATA[<p>由于工作原因，有时候我们需要在电脑上登录多个微信。但微信限制一个客户端只能登陆一个账号，PC 端 + 网页版就成了通用方案，操作效率下降许多。</p>
 <p>其实我们还有更好的办法。在微信 PC 版之余，同时安装微信 For Windows，就能实现客户端双开！</p>
@@ -66,8 +66,8 @@
   </entry>
   <entry>
     <title type="text">RSS 入门篇：Feed43&amp;FeedEx-为静态网页定制 RSS 源</title>
-    <id>https://newzone.top/posts/2017-04-22-rss_feed43_feedex.html</id>
-    <link href="https://newzone.top/posts/2017-04-22-rss_feed43_feedex.html"/>
+    <id>https://newzone.top/LearnDataNote/posts/2017-04-22-rss_feed43_feedex.html</id>
+    <link href="https://newzone.top/LearnDataNote/posts/2017-04-22-rss_feed43_feedex.html"/>
     <updated>2023-02-11T12:00:13.000Z</updated>
     <summary type="html"><![CDATA[<p>迷上 IFTTT 等自动化应用后，我需要为各种不同的网页定制 RSS 源。其中，最容易入门的工具是 FEED43。本文是一篇介绍如何使用 FEED43 定制 RSS 源的入门指南。</p>
 <p><strong>► 开始烧制属于自己的 feed</strong></p>
@@ -146,8 +146,8 @@
   </entry>
   <entry>
     <title type="text">office 2016 安装程序报错解决办法</title>
-    <id>https://newzone.top/posts/2017-07-28-office_2016_installer_error.html</id>
-    <link href="https://newzone.top/posts/2017-07-28-office_2016_installer_error.html"/>
+    <id>https://newzone.top/LearnDataNote/posts/2017-07-28-office_2016_installer_error.html</id>
+    <link href="https://newzone.top/LearnDataNote/posts/2017-07-28-office_2016_installer_error.html"/>
     <updated>2023-02-11T12:00:13.000Z</updated>
     <summary type="html"><![CDATA[<p>重新安装 Office 系统或更改安装组件时，经常提示：「找不到有效的安装源」，但实际这些文件都能在安装包内找到。这是由于注册表和组件而导致的报错，<strong>「找不到有效的安装源」并不是真实原因</strong>，解决方法查看下方。</p>
 <figure><img src="https://pic3.zhimg.com/v2-85bd2a49a47ee6d0c8eade7b3c249516_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
@@ -227,8 +227,8 @@ MSOCache 其它的目录下内容同样根据注册表的内容把它指示的�
   </entry>
   <entry>
     <title type="text">OneNote 2016 无法登陆问题解决</title>
-    <id>https://newzone.top/posts/2017-07-29-onenote_2016_cannot_be_logged_in.html</id>
-    <link href="https://newzone.top/posts/2017-07-29-onenote_2016_cannot_be_logged_in.html"/>
+    <id>https://newzone.top/LearnDataNote/posts/2017-07-29-onenote_2016_cannot_be_logged_in.html</id>
+    <link href="https://newzone.top/LearnDataNote/posts/2017-07-29-onenote_2016_cannot_be_logged_in.html"/>
     <updated>2023-02-11T12:00:13.000Z</updated>
     <summary type="html"><![CDATA[<p>OneNote 安装后，提示输入账号，但点击「下一步」始终没反应，无法进行登陆。</p>
 <figure><img src="https://pic4.zhimg.com/v2-d5945359b896ffd09d9973e9597ec06b_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
@@ -257,8 +257,8 @@ MSOCache 其它的目录下内容同样根据注册表的内容把它指示的�
   </entry>
   <entry>
     <title type="text">电脑关机了，第二天一看确又开着的？让系统正常关机！</title>
-    <id>https://newzone.top/posts/2017-09-02-forced_shutdown.html</id>
-    <link href="https://newzone.top/posts/2017-09-02-forced_shutdown.html"/>
+    <id>https://newzone.top/LearnDataNote/posts/2017-09-02-forced_shutdown.html</id>
+    <link href="https://newzone.top/LearnDataNote/posts/2017-09-02-forced_shutdown.html"/>
     <updated>2023-02-11T12:00:13.000Z</updated>
     <summary type="html"><![CDATA[<p>电脑晚上明明按下关机键，第二天早上却发现电脑开了一晚上？</p>
 <p>这是因为后台应用程序和 GUI 应用程序在阻止或取消关机，系统未能按正常关机。按下列方法授予系统自动关机权限，就能让系统正常关机。</p>
@@ -329,8 +329,8 @@ MSOCache 其它的目录下内容同样根据注册表的内容把它指示的�
   </entry>
   <entry>
     <title type="text">加速 SMB 协议，让 PC 变身小型 NAS</title>
-    <id>https://newzone.top/posts/2017-09-03-smb_lan_sharing.html</id>
-    <link href="https://newzone.top/posts/2017-09-03-smb_lan_sharing.html"/>
+    <id>https://newzone.top/LearnDataNote/posts/2017-09-03-smb_lan_sharing.html</id>
+    <link href="https://newzone.top/LearnDataNote/posts/2017-09-03-smb_lan_sharing.html"/>
     <updated>2023-02-11T12:00:13.000Z</updated>
     <summary type="html"><![CDATA[<p>Windows 系统开启 SMB 协议：</p>
 <ol>
@@ -387,8 +387,8 @@ MSOCache 其它的目录下内容同样根据注册表的内容把它指示的�
   </entry>
   <entry>
     <title type="text">光猫改造 篇一：超级管理员密码破解（E8-C-EPON RG201O-CA_V1A2)</title>
-    <id>https://newzone.top/posts/2017-10-18-light_cat_e8-c-epon_admin.html</id>
-    <link href="https://newzone.top/posts/2017-10-18-light_cat_e8-c-epon_admin.html"/>
+    <id>https://newzone.top/LearnDataNote/posts/2017-10-18-light_cat_e8-c-epon_admin.html</id>
+    <link href="https://newzone.top/LearnDataNote/posts/2017-10-18-light_cat_e8-c-epon_admin.html"/>
     <updated>2023-02-11T12:00:13.000Z</updated>
     <summary type="html"><![CDATA[<h2> 为什么要获得光猫超级密码？</h2>
 <p>它可以用于端口映射（eMule high ID）和桥接模式（路由器掌控拨号，但不兼容固定电话）。网上关于光猫超级密码的获取攻略大多是在 2012-14 年发布的，现在已经不能使用了。</p>
@@ -456,8 +456,8 @@ MSOCache 其它的目录下内容同样根据注册表的内容把它指示的�
   </entry>
   <entry>
     <title type="text">光猫改造 篇二：光猫 + 路由器，实现端口映射</title>
-    <id>https://newzone.top/posts/2017-10-18-light_cat_port_forwarding.html</id>
-    <link href="https://newzone.top/posts/2017-10-18-light_cat_port_forwarding.html"/>
+    <id>https://newzone.top/LearnDataNote/posts/2017-10-18-light_cat_port_forwarding.html</id>
+    <link href="https://newzone.top/LearnDataNote/posts/2017-10-18-light_cat_port_forwarding.html"/>
     <updated>2023-02-11T12:00:13.000Z</updated>
     <summary type="html"><![CDATA[<p>光猫默认没有管理权限，需要先获得光猫的超管密码，参考<a href="https://newzone.top/posts/2017-10-18-Light_cat_E8-C-EPON_admin.html" target="_blank" rel="noopener noreferrer">光猫改造 篇一：超级管理员密码破解（E8-C-EPON RG201O-CA_V1A2）</a>。</p>
 <p><strong>光猫端口映射步骤：</strong></p>
@@ -508,8 +508,8 @@ MSOCache 其它的目录下内容同样根据注册表的内容把它指示的�
   </entry>
   <entry>
     <title type="text">小型网站管理员，快放弃 CDN！</title>
-    <id>https://newzone.top/posts/2018-01-19-forget_the_cdn.html</id>
-    <link href="https://newzone.top/posts/2018-01-19-forget_the_cdn.html"/>
+    <id>https://newzone.top/LearnDataNote/posts/2018-01-19-forget_the_cdn.html</id>
+    <link href="https://newzone.top/LearnDataNote/posts/2018-01-19-forget_the_cdn.html"/>
     <updated>2023-02-11T12:00:13.000Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>CDN 的全称是 Content Delivery Network，即内容分发网络。其基本思路是尽可能避开互联网上有可能影响数据传输速度和稳定性的瓶颈和环节，使内容传输的更快、更稳定。通过在网络各处放置节点服务器所构成的在现有的互联网基础之上的一层智能虚拟网络，CDN 系统能够实时地根据网络流量和各节点的连接、负载状况以及到用户的距离和响应时间等综合信息将用户的请求重新导向离用户最近的服务节点上。其目的是使用户可就近取得所需内容，解决 Internet 网络拥挤的状况，提高用户访问网站的响应速度。</p>
@@ -545,8 +545,8 @@ MSOCache 其它的目录下内容同样根据注册表的内容把它指示的�
   </entry>
   <entry>
     <title type="text">雇个机器人帮你干活</title>
-    <id>https://newzone.top/posts/2018-01-31-hire_a_robot.html</id>
-    <link href="https://newzone.top/posts/2018-01-31-hire_a_robot.html"/>
+    <id>https://newzone.top/LearnDataNote/posts/2018-01-31-hire_a_robot.html</id>
+    <link href="https://newzone.top/LearnDataNote/posts/2018-01-31-hire_a_robot.html"/>
     <updated>2023-02-11T12:00:13.000Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>机器人会取代你工作！
